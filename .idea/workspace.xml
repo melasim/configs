@@ -7,8 +7,6 @@
     <list default="true" id="c687d740-5e8a-4559-b02a-be58b72def86" name="Changes" comment="merge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/movie-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serie-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serie-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694226959863</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="merge">
+      <created>1694235564646</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694235564646</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
