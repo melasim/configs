@@ -18,6 +18,13 @@ spring:
   zipkin:
     base-url: http://localhost:9411
     enabled: true
+exchange:
+  serie:
+    name: SerieExchange
+
+queue:
+  serie:
+    name: SerieQueue
 
 eureka:
   client:
