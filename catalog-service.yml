@@ -74,3 +74,15 @@ resilience4j:
         maxAttempts: 3
         retryExceptions:
           - feign.FeignException$InternalServerError
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: circuitbreakers,circuitbreakerevents,health,info
+  health:
+    circuitbreakers:
+      enabled: true
+  endpoint:
+    health:
+      show-details: always
